@@ -1,7 +1,7 @@
 {
   "name": "My PowerApps PWA",
   "short_name": "PowerApps",
-  "start_url": "https://apps.powerapps.com/play/e/a1c44ef0-f509-e7e8-a03c-44f78170f4d6/a/aac1aeb2-43bb-487c-998b-fbead23b71d4",
+  "start_url": "https://apps.powerapps.com/play/aac1aeb2-43bb-487c-998b-fbead23b71d4",
   "scope": "https://apps.powerapps.com/",
   "display": "standalone",
   "background_color": "#ffffff",
