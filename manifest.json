@@ -1,0 +1,23 @@
+{
+  "name": "My PowerApps PWA",
+  "short_name": "PowerApps",
+  "start_url": "https://apps.powerapps.com/play/e/a1c44ef0-f509-e7e8-a03c-44f78170f4d6/a/aac1aeb2-43bb-487c-998b-fbead23b71d4",
+  "scope": "https://apps.powerapps.com/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0078D4",
+  "icons": [
+    {
+      "src": "icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "dir": "ltr",
+  "lang": "en"
+}
